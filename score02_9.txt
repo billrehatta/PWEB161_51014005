@@ -1,0 +1,5 @@
++10 tugas siap
++1  untuk 1 lagu tambahan setelah 5 lagu pertama
+-3	untuk tag yg tidak disebutkan
+-4	untuk setiap peggunaan opsi tag kecuali <mg>
++5	untuk folder image
