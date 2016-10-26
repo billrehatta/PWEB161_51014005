@@ -1,0 +1,43 @@
+body
+{
+	background-color: #88ff00;
+	background-image: url('star.jpg');
+}
+
+img
+{
+	width: 500px;
+}
+
+h1
+{
+	color:#0000cd;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: arial;
+}
+h2
+{
+	color: #ffffff;
+}
+.judulutama
+{
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: verdana;
+	text-align: center;
+}
+
+p
+{
+	color: #FFF;
+}
+a
+{
+	color: #FF00CC;
+}
+.PURPLE
+{
+	color: #00008F;
+}
