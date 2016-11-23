@@ -1,0 +1,56 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #00ffff;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #00BFFF;
+  color: #333
+}
+body {
+  color: #fff;
+  background-color: #00BFFF;
+}
+
+
+#portfolio .container .text-center h1{
+  color: #000;
+}
+
+.test{
+  width: 450px;
+  max-height: 200px;
+}
+
+.gbr{
+  width: 1500px;
+  max-height: 900px;
+}
+
+.isi{
+  background-color: #ffF8DC;
+  color: #000;
+}
+
+.coba {
+  background-color: #fff;
+  max-height: 100%;
+  color: #000;
+
+}
+
+.mrst{
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
